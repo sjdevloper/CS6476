@@ -1,9 +1,4 @@
 
--  In recent years, the convolutional neural network (CNN) has achieved great success in many computer vision tasks. 
-            In my project, I also use CNN to find the digital number from the images. It uses the MSER algorithm to extract patches, 
-            and it borrows the structure of VGG-16 with some changes, which are using the residual block to replace the Conv layer in 
-            the VGG-16 structure — then using the Non-maxima suppression to detect the object. It is using digital dataset SVHN combined 
-            with a non-digital dataset which downloaded from the Flick
 
 
 * The code structure is show as below:
