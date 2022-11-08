@@ -82,6 +82,6 @@ Demo Youtube Link:
 1. https://youtu.be/_iE2LqsT09s
 2. https://youtu.be/4AlwVn8JX5Q
 
-#### • Designed and implemented an entire pipeline for detecting and recognizing street numbers from images.
-#### • Used OpenCV to implement the Maximally Stable Extremal Regions(RSER) algorithm to extract potential image patches of numbers for  detection.
-#### • Applied VGG-16 deep neural network to classify and recognize numbers images.
+ • Designed and implemented an entire pipeline for detecting and recognizing street numbers from images.
+ • Used OpenCV to implement the Maximally Stable Extremal Regions(RSER) algorithm to extract potential image patches of numbers for  detection.
+ • Applied VGG-16 deep neural network to classify and recognize numbers images.
